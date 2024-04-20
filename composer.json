@@ -1,0 +1,19 @@
+{
+    "name": "iphper/progress-bar",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ProgressBar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iphper",
+            "email": "iguoping@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
